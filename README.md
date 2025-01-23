@@ -71,7 +71,3 @@ Sweeping motion from 0° to 180° and back.
 Angle movements to 0°, 90°, and 180°.
 
 Check the Keil project settings to ensure the correct device is selected.
-
-License
-
-This project is open-source and available for educational and non-commercial purposes. Contributions are welcome!
